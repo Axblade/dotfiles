@@ -1,0 +1,25 @@
+[user]
+	name = Eugene Sypachev
+	email = gmail@gmail.com
+[hub]
+    protocol = https
+[credential]
+    helper = osxkeychain
+[alias]
+    co = checkout
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = true
+[core]
+    excludesfile = ~/.gitignore
+    editor = vim
+[apply]
+    whitespace = nowarn
+[mergetool]
+    keepBackup = false
+[difftool]
+    prompt = false
+[help]
+    autocorrect = 1
