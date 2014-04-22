@@ -1,0 +1,11 @@
+{
+  "theme": "Soda Dark 3.sublime-theme",
+  "soda_folder_icons": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}
