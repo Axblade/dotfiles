@@ -19,7 +19,7 @@
   "ensure_newline_at_eof_on_save": true,
 
   // Font
-  "font_face": "Menlo",
+  "font_face": "Source Code Pro",
   "font_size": 12,
   "font_options": ["no_round"],
 
@@ -35,7 +35,6 @@
   "highlight_modified_tabs": true,
   "scroll_past_end": false,
   "auto_complete_commit_on_tab": true,
-  "ignored_packages": ["Vintage"],
   "word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
 
   // Word wrapping
