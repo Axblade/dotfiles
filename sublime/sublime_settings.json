@@ -19,7 +19,7 @@
   "ensure_newline_at_eof_on_save": true,
 
   // Font
-  "font_face": "Source Code Pro",
+  "font_face": "Consolas",
   "font_size": 12,
   "font_options": ["no_round"],
 
