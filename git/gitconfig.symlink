@@ -1,25 +1,29 @@
 [user]
 	name = Eugene Sypachev
-	email = gmail@gmail.com
-[hub]
-    protocol = https
-[credential]
-    helper = osxkeychain
-[alias]
-    co = checkout
-[color]
-    diff = auto
-    status = auto
-    branch = auto
-    ui = true
+	email = eugene.sypachev@gmail.com
 [core]
-    excludesfile = ~/.gitignore
-    editor = vim
+	excludesfile = /Users/eugene/.gitignore_global
+	editor = emacs
+[push]
+	default = simple
+[filter "lfs"]
+	clean = git lfs clean %f
+	smudge = git lfs smudge %f
+	required = true
+[hub]
+	protocol = https
+[credential]
+	helper = osxkeychain
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	ui = true
 [apply]
-    whitespace = nowarn
+	whitespace = nowarn
 [mergetool]
-    keepBackup = false
+	keepBackup = false
 [difftool]
-    prompt = false
+	prompt = false
 [help]
-    autocorrect = 1
+	autocorrect = 1
