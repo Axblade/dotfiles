@@ -1,29 +1,28 @@
+
 [user]
-	name = Eugene Sypachev
-	email = eugene.sypachev@gmail.com
+        name = Eugene Sypachev (Axblade)
+        email = eugene.sypachev@gmail.com
 [core]
-	excludesfile = /Users/eugene/.gitignore_global
-	editor = emacs
+        excludesfile = /Users/eugene/.gitignore_global
+        editor = emacs
 [push]
-	default = simple
+        default = simple
 [filter "lfs"]
-	clean = git lfs clean %f
-	smudge = git lfs smudge %f
-	required = true
-[hub]
-	protocol = https
+        clean = git-lfs clean %f
+        smudge = git-lfs smudge %f
+        required = true
 [credential]
-	helper = osxkeychain
+        helper = osxkeychain
 [color]
-	diff = auto
-	status = auto
-	branch = auto
-	ui = true
+        diff = auto
+        status = auto
+        branch = auto
+        ui = true
 [apply]
-	whitespace = nowarn
+        whitespace = nowarn
 [mergetool]
-	keepBackup = false
+        keepBackup = false
 [difftool]
-	prompt = false
+        prompt = false
 [help]
-	autocorrect = 1
+        autocorrect = 1
