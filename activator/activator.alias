@@ -1,7 +1,0 @@
-# activator alias (playframework)
-
-alias actui='activator ui'
-alias act='activator'
-alias actr='activator run'
-alias actn='activator new'
-alias actc='activator clean'
