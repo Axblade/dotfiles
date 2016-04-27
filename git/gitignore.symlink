@@ -5,6 +5,7 @@
 *.rbc
 *.log
 *.tmproj
+dump.rdb
 
 ## emacs
 *~
