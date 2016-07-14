@@ -1,6 +1,6 @@
 
 [user]
-        name = Eugene Sypachev (Axblade)
+        name = Eugene Sypachev (@Axblade)
         email = eugene.sypachev@gmail.com
 [core]
         excludesfile = /Users/eugene/.gitignore_global
