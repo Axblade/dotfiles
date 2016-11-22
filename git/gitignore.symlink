@@ -51,3 +51,7 @@ tramp
 
 ## File-based project format:
 *.iws
+
+## Certificates
+*.pem
+*.der
