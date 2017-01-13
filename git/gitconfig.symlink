@@ -2,6 +2,7 @@
 [user]
         name = Eugene Sypachev (@Axblade)
         email = eugene.sypachev@gmail.com
+        signingkey = D6F16B8EE3AD9298
 [core]
         excludesfile = /Users/eugene/.gitignore_global
         editor = emacs
@@ -26,3 +27,5 @@
         prompt = false
 [help]
         autocorrect = 1
+[commit]
+        gpgsign = true
