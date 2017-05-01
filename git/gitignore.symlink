@@ -55,3 +55,6 @@ tramp
 ## Certificates
 *.pem
 *.der
+
+## Environment
+.env.local
