@@ -58,3 +58,10 @@ tramp
 
 ## Environment
 .env.local
+
+## QtCreator project files
+/*.config
+/*.creator
+/*.files
+/*.includes
+/*.creator.user
